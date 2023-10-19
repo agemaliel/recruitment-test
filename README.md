@@ -1,3 +1,7 @@
+THIS PROJECT I TOOK FROM https://github.com/catherineisonline/shopping-time.git
+
+
+
 ![Shopping Time](https://github.com/catherineisonline/shopping-time/blob/main/src/assets/images/project-preview.png?raw=true)
 
 # [Shopping Time](https://shopping-time.vercel.app/)

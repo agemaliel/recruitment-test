@@ -3,7 +3,7 @@ version: '3.7'
 services:
   environment:
     image: recruitment-image
-    container_name: test
+    container_name: recruitment
     ports:
       - 3000:3000
     stdin_open: true
